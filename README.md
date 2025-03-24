@@ -5,7 +5,15 @@
 - Ele se destina à análise de padrões de compra, tendências de vendas e preferências do cliente relacionadas a produtos de café.
 
 ## Período de coleta de dados
-- O conjunto de dados abrange de março de 2024 até fevereiro de 2025, capturando dados de transações diárias. 
+- O conjunto de dados abrange de março de 2024 até fevereiro de 2025, capturando dados de transações diárias.
+
+## Informações dos dados
+-- date: Date da compra
+-- datetime: Datetime da compra
+-- cash_type: Compra em "Cash" (dinheiro) ou "Card" (Cartão) 
+-- card: Número do cartão 
+-- money: Valor gasto
+-- coffee_name: Tipo do Produto
 
 ## Tarefas
 - Análise exploratória de dados de séries temporais
